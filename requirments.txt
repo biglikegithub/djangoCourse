@@ -1,0 +1,7 @@
+Django==2.2.13
+django-crispy-forms==1.9.0
+django-readonly-field==1.0.5
+djangorestframework==3.11.0
+pymongo==3.10.1
+request==2019.4.13
+requests==2.22.0
